@@ -1,2 +1,6 @@
 .gitignore
 .idea
+
+# Lely Specific
+Job_Orchestration_Engine/.ipynb_checkpoints/Deploy_C#_Job_In_Rancher-checkpoint.ipynb
+Job_Orchestration_Engine/Deploy_C#_Job_In_Rancher.ipynb
